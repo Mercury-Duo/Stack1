@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="栈.cpp">
+    <ClCompile Include="链式栈.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="数组栈.c">
